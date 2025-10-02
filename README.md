@@ -31,6 +31,7 @@ RETELL_WEBHOOK_SECRET=your_webhook_secret
 
 # LLM Configuration (choose one)
 GROQ_API_KEY=your_groq_api_key
+GROQ_MODEL=choose_llm_model
 # OR
 OPENAI_API_KEY=your_openai_api_key
 
